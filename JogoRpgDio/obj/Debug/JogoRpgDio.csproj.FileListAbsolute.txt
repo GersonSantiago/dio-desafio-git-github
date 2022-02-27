@@ -1,0 +1,7 @@
+C:\Users\gerson\source\repos\JogoRpgDio\JogoRpgDio\bin\Debug\JogoRpgDio.exe.config
+C:\Users\gerson\source\repos\JogoRpgDio\JogoRpgDio\bin\Debug\JogoRpgDio.exe
+C:\Users\gerson\source\repos\JogoRpgDio\JogoRpgDio\bin\Debug\JogoRpgDio.pdb
+C:\Users\gerson\source\repos\JogoRpgDio\JogoRpgDio\obj\Debug\JogoRpgDio.csproj.AssemblyReference.cache
+C:\Users\gerson\source\repos\JogoRpgDio\JogoRpgDio\obj\Debug\JogoRpgDio.csproj.CoreCompileInputs.cache
+C:\Users\gerson\source\repos\JogoRpgDio\JogoRpgDio\obj\Debug\JogoRpgDio.exe
+C:\Users\gerson\source\repos\JogoRpgDio\JogoRpgDio\obj\Debug\JogoRpgDio.pdb
